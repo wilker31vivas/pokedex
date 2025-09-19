@@ -1,8 +1,27 @@
-# React + Vite
+# ⚡ Pokédex App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una Pokédex moderna desarrollada con **React**, que permite explorar y descubrir Pokémon.  
+Incluye un sistema de **filtros por tipo** y un **buscador por nombre o ID**, ofreciendo una experiencia rápida y sencilla.  
 
-Currently, two official plugins are available:
+## 🚀 Demo
+👉 [Ver demo](https://pokedex-wilker.netlify.app) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tecnologías usadas
+
+* ⚛️ React
+* 🎨 CSS
+* 🌐 Vite (para desarrollo rápido)
+* 📡 PokéAPI (https://pokeapi.co/)
+
+📖 Funcionalidades
+
+* 🔍 Buscar Pokémon por nombre o ID.
+* 🏷️ Filtrar por tipo (agua, fuego, planta, etc.).
+* 📱 Diseño responsivo, adaptable a dispositivos móviles.
+* 🌐 Idioma: Inglés 🇺🇸 (interfaz y nombres de Pokémon).
+
+🧑‍💻 Autor
+
+Hecho con ❤️ por Wilker Vivas.
+
+Si te gustó este proyecto, considera dejar una ⭐ en GitHub 😃.
